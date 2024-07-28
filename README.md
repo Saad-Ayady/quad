@@ -8,10 +8,10 @@ rm README.md
 rm -rf justHelpFile
 ```
 #### This file to help you to understand the code <br /><br />
-#### first picture shows us how a computer see a desired shape<br />
+#### first picture show us how a computer see a desired shape<br />
 ![1](/justHelpFile/1.png)
 <br /><br />
 #### second picture shows us the values ​​of x and y in each case <br />
 ![2](/justHelpFile/2.png)
 <br /><br />
-# smail ! If you need more help you can contact me on my in whatsapp or discord
+# smail ! If you need more help you can contact me on me in whatsapp or discord
