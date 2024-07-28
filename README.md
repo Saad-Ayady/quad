@@ -14,4 +14,4 @@ rm -rf justHelpFile
 #### second picture shows us the values ​​of x and y in each case <br />
 ![2](/justHelpFile/2.png)
 <br /><br />
-# smail ! If you need more help you can contact me on me in whatsapp or discord
+# smail ! If you need more help you can contact me on my whatsapp or discord
